@@ -414,7 +414,7 @@ Button
 .btn {
 	border-radius: 40px;
 	border: 2px solid;
-	background: #fff;
+
 	color: #3b3b3b;
 	border-color: #fff;
 }
@@ -460,6 +460,7 @@ Button
 	line-height: 20px;
 	border-radius: 40px;
 	font-weight: 700;
+	color: white
 }
 
 .btn-cta i {

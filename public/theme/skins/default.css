@@ -70,7 +70,7 @@ a:active,
 .team-leader,
 .pagination>li>a,
 .recent li h6 a:hover {
-	color: #A20202;
+	color: black;
 }
 
 /*
@@ -98,7 +98,7 @@ footer,
 .navbar-default .navbar-toggle:hover .icon-bar,
 #inner-heading,
 .tags li a:hover {
-	background-color: #A20202;
+	background-color: black;
 }
 
 /*
